@@ -6,6 +6,10 @@ This Power BI dashboard analyzes insights from a professional survey of data pra
 ## 📁 File Included
 - `Data professional survey breakdown.pbix`: The complete Power BI dashboard file.
 
+  ## 🖼️ Dashboard Preview
+
+![Dashboard Preview](data_professional_survey.png)
+
 ## 🔍 Dashboard Features
 - Distribution of job roles
 - Average salary by role and region
